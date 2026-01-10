@@ -5,6 +5,9 @@
 [submodule "EventWinRatios"]
 	path = EventWinRatios
 	url = https://github.com/cran/EventWinRatios
+[submodule "TxEffectsSurvival"]
+	path = TxEffectsSurvival
+	url = https://github.com/cran/TxEffectsSurvival
 [submodule "YPmodelPhreg"]
 	path = YPmodelPhreg
 	url = https://github.com/cran/YPmodelPhreg
